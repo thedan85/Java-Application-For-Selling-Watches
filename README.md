@@ -1,6 +1,6 @@
 # 🕐 Watch Store Management System (QLCH)
 
-A comprehensive Java-based desktop application for managing a watch retail store, built with Swing GUI and SQL Server database integration.
+A comprehensive Java-based desktop application for managing a watch retail store, built with Swing GUI and SQL Server database integration created by me and my team, then created my own repository to push the source code.
 
 ## 📋 Overview
 
